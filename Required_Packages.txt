@@ -1,0 +1,10 @@
+Required R Packages:
+
+shiny
+shinyjs
+shinycssloaders
+ggplot2
+bslib
+glmnet
+caret
+Metrics
